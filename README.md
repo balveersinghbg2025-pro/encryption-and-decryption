@@ -28,9 +28,7 @@ This project demonstrates how to:
 
 ## 📂 Project Structure
 ├── encryption.py
-├── input.txt
-├── encrypted.txt
-├── decrypted.txt
+├── message.txt
 └── README.md
 
 ---
